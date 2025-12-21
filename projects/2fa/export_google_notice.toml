@@ -1,0 +1,8 @@
+[en_US]
+v = "Only TOTP and HOTP tokens that generate 6-digit or 8-digit codes with 30 second intervals can be exported to Google Authenticator"
+
+[es_ES]
+v = "Solo los tokens TOTP y HOTP que generan códigos de 6 u 8 dígitos con intervalos de 30 segundos pueden exportarse a Google Authenticator"
+
+[ru_RU]
+v = "В Google Authenticator можно экспортировать только токены TOTP и HOTP, которые генерируют 6-значные или 8-значные коды с интервалом 30 секунд"
