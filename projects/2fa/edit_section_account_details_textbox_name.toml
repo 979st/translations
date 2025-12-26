@@ -6,3 +6,6 @@ v = "Nombre"
 
 [ru_RU]
 v = "Имя"
+
+[fr_FR]
+v = "Nom"

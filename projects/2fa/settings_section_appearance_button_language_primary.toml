@@ -6,3 +6,6 @@ v = "Idioma"
 
 [ru_RU]
 v = "Язык"
+
+[fr_FR]
+v = "Langue"

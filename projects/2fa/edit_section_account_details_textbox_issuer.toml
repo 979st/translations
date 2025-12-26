@@ -6,3 +6,6 @@ v = "Emisor"
 
 [ru_RU]
 v = "Эмитент"
+
+[fr_FR]
+v = "Émetteur"

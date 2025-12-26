@@ -11,3 +11,7 @@ one = "Показан %d аккаунт"
 few = "Показано %d аккаунта"
 many = "Показано %d аккаунтов"
 other = "Показано %d аккаунта"
+
+[fr_FR]
+one = "%d compte affiché"
+other = "%d comptes affiché"

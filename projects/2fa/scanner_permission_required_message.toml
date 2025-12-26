@@ -6,3 +6,6 @@ v = "Se requiere permiso de la cámara para escanear códigos QR"
 
 [ru_RU]
 v = "Для сканирования QR-кодов требуется разрешение камеры"
+
+[fr_FR]
+v = "La permission caméra est obligatoire pour scanner des QR codes"

@@ -6,3 +6,6 @@ v = "Código fuente"
 
 [ru_RU]
 v = "Исходный код"
+
+[fr_FR]
+v = "Code source"

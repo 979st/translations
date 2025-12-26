@@ -6,3 +6,6 @@ v = "Cancelar"
 
 [ru_RU]
 v = "Отменить"
+
+[fr_FR]
+v = "Annuler"

@@ -6,3 +6,6 @@ v = "No se encontraron cuentas coincidentes"
 
 [ru_RU]
 v = "Совпадающие аккаунты не найдены"
+
+[fr_FR]
+v = "Aucun compte correspondant a été trouvé"

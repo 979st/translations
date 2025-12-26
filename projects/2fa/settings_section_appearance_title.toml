@@ -6,3 +6,6 @@ v = "Apariencia"
 
 [ru_RU]
 v = "Внешний вид"
+
+[fr_FR]
+v = "Apparence"

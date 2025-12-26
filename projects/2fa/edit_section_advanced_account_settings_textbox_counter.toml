@@ -6,3 +6,6 @@ v = "Contador"
 
 [ru_RU]
 v = "Счетчик"
+
+[fr_FR]
+v = "Compteur"

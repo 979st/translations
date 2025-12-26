@@ -6,3 +6,6 @@ v = "Nota"
 
 [ru_RU]
 v = "Заметка"
+
+[fr_FR]
+v = "Note"

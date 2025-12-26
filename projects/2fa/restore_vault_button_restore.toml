@@ -6,3 +6,6 @@ v = "Restaurar"
 
 [ru_RU]
 v = "Восстановить"
+
+[fr_FR]
+v = "Restaurer"

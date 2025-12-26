@@ -6,3 +6,6 @@ v = "Longitud del código"
 
 [ru_RU]
 v = "Длина кода"
+
+[fr_FR]
+v = "Longueur du code"

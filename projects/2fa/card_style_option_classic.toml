@@ -6,3 +6,6 @@ v = "Clásico"
 
 [ru_RU]
 v = "Классический"
+
+[fr_FR]
+v = "Classique"

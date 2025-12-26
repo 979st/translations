@@ -6,3 +6,6 @@ v = "Exportar a Google Authenticator"
 
 [ru_RU]
 v = "Экспорт в Google Authenticator"
+
+[fr_FR]
+v = "Exporter vers Google Authenticator"

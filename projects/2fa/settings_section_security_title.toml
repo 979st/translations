@@ -6,3 +6,6 @@ v = "Seguridad"
 
 [ru_RU]
 v = "Безопасность"
+
+[fr_FR]
+v = "Sécurité"

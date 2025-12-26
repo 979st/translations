@@ -6,3 +6,6 @@ v = "Acerca de nosotros"
 
 [ru_RU]
 v = "О нас"
+
+[fr_FR]
+v = "À propos de nous"

@@ -6,3 +6,6 @@ v = "Descargar registro de la aplicación"
 
 [ru_RU]
 v = "Скачать журнал приложения"
+
+[fr_FR]
+v = "Exporter les logs de l'application"

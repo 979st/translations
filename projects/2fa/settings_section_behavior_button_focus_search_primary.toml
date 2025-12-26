@@ -6,3 +6,6 @@ v = "Enfocar la búsqueda al iniciar"
 
 [ru_RU]
 v = "Фокусировать поиск при запуске"
+
+[fr_FR]
+v = "Focaliser sur la barre de recherche au lancement"

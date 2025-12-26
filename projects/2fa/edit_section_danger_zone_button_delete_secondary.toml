@@ -6,3 +6,6 @@ v = "Esta acción no se puede deshacer"
 
 [ru_RU]
 v = "Это действие нельзя отменить"
+
+[fr_FR]
+v = "Cette action est irréversible"

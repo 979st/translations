@@ -6,3 +6,6 @@ v = "Solo los tokens TOTP y HOTP que generan códigos de 6 u 8 dígitos con inte
 
 [ru_RU]
 v = "В Google Authenticator можно экспортировать только токены TOTP и HOTP, которые генерируют 6-значные или 8-значные коды с интервалом 30 секунд"
+
+[fr_FR]
+v = "Seul les jetons TOTP et HOTP qui permettent de générer des codes à 6 ou 8 chiffres avec une intervale de 30 secondes peuvent être exporté vers Google Authenticator"

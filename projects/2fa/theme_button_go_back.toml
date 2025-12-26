@@ -6,3 +6,6 @@ v = "Hecho"
 
 [ru_RU]
 v = "Готово"
+
+[fr_FR]
+v = "Terminer"

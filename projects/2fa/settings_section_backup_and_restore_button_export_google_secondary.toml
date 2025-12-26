@@ -6,3 +6,6 @@ v = "Código QR"
 
 [ru_RU]
 v = "QR-код"
+
+[fr_FR]
+v = "QR code"

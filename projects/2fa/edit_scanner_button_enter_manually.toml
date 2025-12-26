@@ -6,3 +6,6 @@ v = "Introducir manualmente"
 
 [ru_RU]
 v = "Ввести вручную"
+
+[fr_FR]
+v = "Saisie manuelle"

@@ -6,3 +6,6 @@ v = "Estilo de tarjeta"
 
 [ru_RU]
 v = "Стиль карты"
+
+[fr_FR]
+v = "Style des cartes"

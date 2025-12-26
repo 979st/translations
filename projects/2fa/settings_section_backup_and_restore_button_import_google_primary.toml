@@ -6,3 +6,6 @@ v = "Importar desde Google Authenticator"
 
 [ru_RU]
 v = "Импорт из Google Authenticator"
+
+[fr_FR]
+v = "Importer depuis Google Authenticator"

@@ -6,3 +6,6 @@ v = "Archivo JSON"
 
 [ru_RU]
 v = "JSON-файл"
+
+[fr_FR]
+v = "Fichier JSON"

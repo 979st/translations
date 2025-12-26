@@ -6,3 +6,6 @@ v = "Valor predeterminado del sistema"
 
 [ru_RU]
 v = "Система по умолчанию"
+
+[fr_FR]
+v = "Valeur du système"

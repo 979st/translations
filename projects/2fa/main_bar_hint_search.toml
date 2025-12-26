@@ -6,3 +6,6 @@ v = "Buscar"
 
 [ru_RU]
 v = "Поиск"
+
+[fr_FR]
+v = "Rechercher"

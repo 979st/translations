@@ -6,3 +6,6 @@ v = "¿Estás seguro de que deseas eliminar esta cuenta? Esta acción no se pued
 
 [ru_RU]
 v = "Вы уверены, что хотите удалить этот аккаунт? Это действие нельзя отменить"
+
+[fr_FR]
+v = "Es-tu sûr de vouloir supprimer ce compte ? Cette action est irréversible"

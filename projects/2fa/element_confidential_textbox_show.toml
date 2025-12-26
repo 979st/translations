@@ -6,3 +6,6 @@ v = "Mostrar"
 
 [ru_RU]
 v = "Показать"
+
+[fr_FR]
+v = "Afficher"

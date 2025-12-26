@@ -6,3 +6,6 @@ v = "Claro"
 
 [ru_RU]
 v = "Светлое"
+
+[fr_FR]
+v = "Claire"

@@ -6,3 +6,6 @@ v = "Importar"
 
 [ru_RU]
 v = "Импортировать"
+
+[fr_FR]
+v = "Importer"

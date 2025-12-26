@@ -6,3 +6,6 @@ v = "Zona de peligro"
 
 [ru_RU]
 v = "Опасная зона"
+
+[fr_FR]
+v = "Zone dangeureuse"
