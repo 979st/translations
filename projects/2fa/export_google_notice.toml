@@ -9,3 +9,6 @@ v = "В Google Authenticator можно экспортировать тольк�
 
 [fr_FR]
 v = "Seul les jetons TOTP et HOTP qui permettent de générer des codes à 6 ou 8 chiffres avec une intervale de 30 secondes peuvent être exporté vers Google Authenticator"
+
+[vi_VN]
+v = "Chỉ có mã TOTP và HOTP tạo ra 6 hoặc 8 chữ số trong 30 giây mới có thể được xuất ra cho Google Authenticator"

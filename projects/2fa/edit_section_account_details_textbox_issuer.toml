@@ -9,3 +9,6 @@ v = "Эмитент"
 
 [fr_FR]
 v = "Émetteur"
+
+[vi_VN]
+v = "Dịch vụ"

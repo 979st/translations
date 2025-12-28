@@ -9,3 +9,6 @@ v = "JSON-файл"
 
 [fr_FR]
 v = "Fichier JSON"
+
+[vi_VN]
+v = "Tệp JSON"

@@ -9,3 +9,6 @@ v = "Для сканирования QR-кодов требуется разре
 
 [fr_FR]
 v = "La permission caméra est obligatoire pour scanner des QR codes"
+
+[vi_VN]
+v = "Cần quyền truy cập máy ảnh để quét mã QR"

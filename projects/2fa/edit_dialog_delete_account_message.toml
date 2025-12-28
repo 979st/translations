@@ -9,3 +9,6 @@ v = "Вы уверены, что хотите удалить этот аккау
 
 [fr_FR]
 v = "Es-tu sûr de vouloir supprimer ce compte ? Cette action est irréversible"
+
+[vi_VN]
+v = "Bạn có chắc là muốn xóa tài khoản này? Hành động này sẽ không được hoàn tác"

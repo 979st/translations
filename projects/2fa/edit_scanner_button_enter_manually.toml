@@ -9,3 +9,6 @@ v = "Ввести вручную"
 
 [fr_FR]
 v = "Saisie manuelle"
+
+[vi_VN]
+v = "Nhập thủ công"

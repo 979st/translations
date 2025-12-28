@@ -9,3 +9,6 @@ v = "Это действие нельзя отменить"
 
 [fr_FR]
 v = "Cette action est irréversible"
+
+[vi_VN]
+v = "Hành động này sẽ không được hoàn tác"

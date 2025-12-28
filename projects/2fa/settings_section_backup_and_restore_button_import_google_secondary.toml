@@ -9,3 +9,6 @@ v = "QR-код"
 
 [fr_FR]
 v = "QR code"
+
+[vi_VN]
+v = "Mã QR"

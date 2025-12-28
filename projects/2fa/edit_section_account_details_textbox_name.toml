@@ -9,3 +9,6 @@ v = "Имя"
 
 [fr_FR]
 v = "Nom"
+
+[vi_VN]
+v = "Tên"

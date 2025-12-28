@@ -15,3 +15,7 @@ other = "Показано %d аккаунта"
 [fr_FR]
 one = "%d compte affiché"
 other = "%d comptes affiché"
+
+[vi_VN]
+one = "Đang hiển thị %d tài khoản"
+other = "Đang hiển thị %d tài khoản" 
