@@ -1,0 +1,21 @@
+[en_US]
+one = "Showing %d account"
+other = "Showing %d accounts"
+
+[es_ES]
+one = "Mostrando %d cuenta"
+other = "Mostrando %d cuenta"
+
+[ru_RU]
+one = "Показан %d аккаунт"
+few = "Показано %d аккаунта"
+many = "Показано %d аккаунтов"
+other = "Показано %d аккаунта"
+
+[fr_FR]
+one = "%d compte affiché"
+other = "%d comptes affiché"
+
+[vi_VN]
+one = "Đang hiển thị %d tài khoản"
+other = "Đang hiển thị %d tài khoản" 
