@@ -1,7 +1,0 @@
-en_US
-es_ES
-fr_FR
-ru_RU
-de_DE
-ja
-vi
