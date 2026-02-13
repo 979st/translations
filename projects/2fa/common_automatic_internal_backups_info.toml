@@ -1,0 +1,11 @@
+[en_US]
+v = "You're using an advanced feature. Automatic internal backups are highly recommended."
+
+[es_ES]
+v = "Estás usando una función avanzada. Se recomiendan encarecidamente las copias internas automáticas."
+
+[fr_FR]
+v = ""
+
+[ru_RU]
+v = "Вы используете расширенную функцию. Настоятельно рекомендуется включить автоматическое внутреннее резервное копирование."

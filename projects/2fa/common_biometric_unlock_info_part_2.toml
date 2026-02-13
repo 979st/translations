@@ -1,0 +1,11 @@
+[en_US]
+v = "Using biometric unlock may erase your accounts if lock screen or private spaces change, your device updates, or if the app hasn't been opened in a while. Your accounts can be recovered if you enable automatic internal backups."
+
+[es_ES]
+v = "El uso del desbloqueo biométrico puede borrar tus cuentas si cambian la pantalla de bloqueo o los espacios privados, tu dispositivo se actualiza o si la aplicación no se ha abierto en un tiempo. Tus cuentas se pueden recuperar si habilitas las copias de seguridad internas automáticas."
+
+[fr_FR]
+v = ""
+
+[ru_RU]
+v = "Использование биометрической разблокировки может привести к удалению ваших учётных записей, если изменится экран блокировки или приватные пространства, устройство обновится или приложение долгое время не открывалось. Ваши учётные записи можно восстановить, если включить автоматические внутренние резервные копии."

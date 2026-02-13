@@ -1,0 +1,11 @@
+[en_US]
+v = "An internal backup was found. If you wipe and start over, you'll be able to recover your accounts as long as you remember the password."
+
+[es_ES]
+v = "Se encontró una copia interna. Si borras y comienzas de nuevo, podrás recuperar tus cuentas siempre que recuerdes la contraseña."
+
+[fr_FR]
+v = ""
+
+[ru_RU]
+v = "Найдена внутренняя резервная копия. Если вы выполните сброс и начнёте заново, вы сможете восстановить свои аккаунты, если вспомните пароль."

@@ -1,0 +1,17 @@
+[en_US]
+one = "Tap %d more time to delete account"
+other = "Tap %d more times to delete account"
+
+[es_ES]
+one = "Toca %d vez más para eliminar la cuenta"
+other = "Toca %d veces más para eliminar la cuenta"
+
+[fr_FR]
+one = "Touchez encore %d fois pour supprimer le compte"
+other = "Touchez encore %d fois pour supprimer le compte"
+
+[ru_RU]
+one = "Нажмите ещё %d раз, чтобы удалить аккаунт"
+few = "Нажмите ещё %d раза, чтобы удалить аккаунт"
+many = "Нажмите ещё %d раз, чтобы удалить аккаунт"
+other = "Нажмите ещё %d раза, чтобы удалить аккаунт"

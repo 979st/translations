@@ -1,0 +1,17 @@
+[en_US]
+one = "Tap %d more time to wipe and start over"
+other = "Tap %d more times to wipe and start over"
+
+[es_ES]
+one = "Toca %d vez más para borrar y empezar de nuevo"
+other = "Toca %d veces más para borrar y empezar de nuevo"
+
+[fr_FR]
+one = "%d compte affiché"
+other = "%d comptes affiché"
+
+[ru_RU]
+one = "Нажмите ещё %d раз, чтобы сбросить и начать заново"
+few = "Нажмите ещё %d раза, чтобы сбросить и начать заново"
+many = "Нажмите ещё %d раз, чтобы сбросить и начать заново"
+other = "Нажмите ещё %d раза, чтобы сбросить и начать заново"

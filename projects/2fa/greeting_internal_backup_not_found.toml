@@ -1,0 +1,11 @@
+[en_US]
+v = "No internal backup was found. If you wipe and start over, you won't be able to recover your accounts."
+
+[es_ES]
+v = "No se encontró ninguna copia interna. Si borras y comienzas de nuevo, no podrás recuperar tus cuentas."
+
+[fr_FR]
+v = ""
+
+[ru_RU]
+v = "Внутренней резервной копии не найдено. Если вы выполните сброс и начнёте заново, вы не сможете восстановить свои аккаунты."
