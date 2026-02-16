@@ -5,7 +5,7 @@ v = "Unable to load decryption keys. For more information, see the app log."
 v = "No se pudieron cargar las claves de descifrado. Para más información, consulta el registro de la app."
 
 [fr_FR]
-v = ""
+v = "Impossible de charger les clés de déchiffrement. Pour plus d'informations, consultez le journal de l'application."
 
 [ru_RU]
 v = "Не удалось загрузить ключи расшифровки. Для получения подробной информации смотрите журнал приложения."

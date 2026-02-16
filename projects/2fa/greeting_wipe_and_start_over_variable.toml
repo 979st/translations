@@ -7,8 +7,8 @@ one = "Toca %d vez más para borrar y empezar de nuevo"
 other = "Toca %d veces más para borrar y empezar de nuevo"
 
 [fr_FR]
-one = "%d compte affiché"
-other = "%d comptes affiché"
+one = "Appuyez encore %d fois pour effacer et recommencer"
+other = "Appuyez encore %d fois pour effacer et recommencer"
 
 [ru_RU]
 one = "Нажмите ещё %d раз, чтобы сбросить и начать заново"

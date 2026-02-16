@@ -5,7 +5,7 @@ v = "An internal backup was found. Now is the time to recover your accounts."
 v = "Se encontró una copia interna. Ahora es el momento de recuperar tus cuentas."
 
 [fr_FR]
-v = ""
+v = "Une sauvegarde interne a été trouvée. C'est le bon moment pour récupérer vos comptes."
 
 [ru_RU]
 v = "Найдена внутренняя резервная копия. Сейчас подходящее время для восстановления ваших аккаунтов."

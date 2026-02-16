@@ -5,7 +5,7 @@ v = "Set up your new 2FA app in three easy steps: generate your random seed, ena
 v = "Configura tu nueva aplicación 2FA en tres sencillos pasos: genera tu semilla aleatoria, activa el desbloqueo biométrico y habilita las copias de seguridad internas automáticas. Después de la configuración, puedes importar códigos desde otras aplicaciones autenticadoras."
 
 [fr_FR]
-v = ""
+v = "Configurez votre nouvelle application 2FA en trois étapes simples : générez votre graine aléatoire, activez le déverrouillage biométrique et activez les sauvegardes internes automatiques. Après la configuration, vous pouvez importer des codes provenant d'autres applications d'authentification."
 
 [ru_RU]
 v = "Настройте новое приложение 2FA в три простых шага: сгенерируйте случайную seed‑фразу, включите биометрическую разблокировку и активируйте автоматические внутренние резервные копии. После настройки вы сможете импортировать коды из других приложений-аутентификаторов."

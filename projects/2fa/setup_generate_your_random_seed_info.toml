@@ -5,7 +5,7 @@ v = "Drag your finger randomly across the screen. The longer you move it, the st
 v = " Arrastra el dedo al azar por la pantalla. Cuanto más tiempo lo muevas, más fuertes serán las claves de cifrado resultantes. Esto se combina con aleatoriedad generada por el sistema para una capa adicional de protección."
 
 [fr_FR]
-v = ""
+v = "Faites glisser votre doigt de manière aléatoire sur l'écran. Plus vous le bougez longtemps, plus les clés de chiffrement résultantes deviennent robustes. Cela est combiné avec l'aléa généré par le système pour une couche de protection supplémentaire."
 
 [ru_RU]
 v = "Ведите пальцем хаотично по экрану. Чем дольше вы двигаете, тем сильнее становятся получаемые ключи шифрования. Это сочетается со случайностью, сгенерированной системой, для дополнительного уровня защиты."

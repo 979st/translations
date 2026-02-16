@@ -5,7 +5,7 @@ v = "Automatic internal backups"
 v = " Copias de seguridad internas automáticas"
 
 [fr_FR]
-v = ""
+v = "Sauvegardes internes automatiques"
 
 [ru_RU]
 v = "Автоматические внутренние резервные копии"

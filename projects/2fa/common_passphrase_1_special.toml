@@ -1,0 +1,11 @@
+[en_US]
+v = "1 special character (e.g., $, !, @, %, &) or space"
+
+[es_ES]
+v = "1 carácter especial (p. ej., $, !, @, %, &) o espacio"
+
+[fr_FR]
+v = "1 caractère spécial (ex. $, !, @, %, &) ou espace"
+
+[ru_RU]
+v = "1 специальный символ (например $, !, @, %, &) или пробел"

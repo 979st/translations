@@ -5,7 +5,7 @@ v = "This is an advanced feature."
 v = "Esta es una función avanzada."
 
 [fr_FR]
-v = ""
+v = "C'est une fonctionnalité avancée."
 
 [ru_RU]
 v = "Это расширенная функция."

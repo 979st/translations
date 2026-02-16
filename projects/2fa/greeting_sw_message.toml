@@ -5,7 +5,7 @@ v = "Unable to decrypt accounts due to incorrect credentials. Restart the app an
 v = "No se pueden descifrar las cuentas debido a credenciales incorrectas. Reinicia la app y vuelve a intentarlo."
 
 [fr_FR]
-v = ""
+v = "Impossible de déchiffrer les comptes en raison de données d'identification incorrectes. Redémarrez l'application et réessayez."
 
 [ru_RU]
 v = "Невозможно расшифровать аккаунты из‑за неверных учётных данных. Перезапустите приложение и попробуйте снова."

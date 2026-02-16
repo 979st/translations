@@ -5,7 +5,7 @@ v = "This device may not support biometric unlock. Make sure you have device bio
 v = "Es posible que este dispositivo no sea compatible con el desbloqueo biométrico. Asegúrate de tener configurada la biometría del dispositivo."
 
 [fr_FR]
-v = ""
+v = "Cet appareil peut ne pas prendre en charge le déverrouillage biométrique. Assurez-vous que la biométrie de l'appareil est configurée."
 
 [ru_RU]
 v = "Возможно, что это устройство не поддерживает биометрическую разблокировку. Убедитесь, что биометрия устройства настроена."

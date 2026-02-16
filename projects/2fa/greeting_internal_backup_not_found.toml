@@ -5,7 +5,7 @@ v = "No internal backup was found. If you wipe and start over, you won't be able
 v = "No se encontró ninguna copia interna. Si borras y comienzas de nuevo, no podrás recuperar tus cuentas."
 
 [fr_FR]
-v = ""
+v = "Aucune sauvegarde interne n'a été trouvée. Si vous réinitialisez et recommencez, vous ne pourrez pas récupérer vos comptes."
 
 [ru_RU]
 v = "Внутренней резервной копии не найдено. Если вы выполните сброс и начнёте заново, вы не сможете восстановить свои аккаунты."
