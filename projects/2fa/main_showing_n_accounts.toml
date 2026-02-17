@@ -4,11 +4,7 @@ other = "Showing %d accounts"
 
 [es_ES]
 one = "Mostrando %d cuenta"
-other = "Mostrando %d cuenta"
-
-[fr_FR]
-one = "%d compte affiché"
-other = "%d comptes affiché"
+other = "Mostrando %d cuentas"
 
 [ru_RU]
 one = "Показан %d аккаунт"

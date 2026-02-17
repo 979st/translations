@@ -2,10 +2,7 @@
 v = "You're using an advanced feature. Automatic internal backups are highly recommended."
 
 [es_ES]
-v = "Estás usando una función avanzada. Se recomiendan encarecidamente las copias internas automáticas."
-
-[fr_FR]
-v = "Vous utilisez une fonctionnalité avancée. Les sauvegardes internes automatiques sont fortement recommandées."
+v = "Estás utilizando una función avanzada. Te recomendamos que actives las copias de seguridad internas automáticas."
 
 [ru_RU]
-v = "Вы используете расширенную функцию. Настоятельно рекомендуется включить автоматическое внутреннее резервное копирование."
+v = "Вы используете расширенную функцию. Настоятельно рекомендуется включить автоматические внутренние резервные копии."

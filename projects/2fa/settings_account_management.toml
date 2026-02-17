@@ -4,8 +4,5 @@ v = "Account Management"
 [es_ES]
 v = "Gestión de cuentas"
 
-[fr_FR]
-v = "Gestion Des Comptes"
-
 [ru_RU]
-v = "Управление аккаунтами"
+v = "Управление Аккаунтами"

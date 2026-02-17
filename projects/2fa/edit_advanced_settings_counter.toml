@@ -4,8 +4,5 @@ v = "Counter"
 [es_ES]
 v = "Contador"
 
-[fr_FR]
-v = "Compteur"
-
 [ru_RU]
-v = "Счетчик"
+v = "Счётчик"

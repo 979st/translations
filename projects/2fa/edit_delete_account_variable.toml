@@ -3,12 +3,8 @@ one = "Tap %d more time to delete account"
 other = "Tap %d more times to delete account"
 
 [es_ES]
-one = "Toca %d vez más para eliminar la cuenta"
-other = "Toca %d veces más para eliminar la cuenta"
-
-[fr_FR]
-one = "Touchez encore %d fois pour supprimer le compte"
-other = "Touchez encore %d fois pour supprimer le compte"
+one = "Pulsa %d vez más para eliminar la cuenta"
+other = "Pulsa %d veces más para eliminar la cuenta"
 
 [ru_RU]
 one = "Нажмите ещё %d раз, чтобы удалить аккаунт"

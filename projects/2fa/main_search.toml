@@ -4,8 +4,5 @@ v = "Search"
 [es_ES]
 v = "Buscar"
 
-[fr_FR]
-v = "Rechercher"
-
 [ru_RU]
 v = "Поиск"

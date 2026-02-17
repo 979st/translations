@@ -4,8 +4,5 @@ v = "Settings"
 [es_ES]
 v = "Configuración"
 
-[fr_FR]
-v = "Paramètres"
-
 [ru_RU]
 v = "Настройки"

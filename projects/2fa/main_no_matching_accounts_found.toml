@@ -4,8 +4,5 @@ v = "No matching accounts were found"
 [es_ES]
 v = "No se encontraron cuentas coincidentes"
 
-[fr_FR]
-v = "Aucun compte correspondant a été trouvé"
-
 [ru_RU]
 v = "Совпадающие аккаунты не найдены"

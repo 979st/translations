@@ -1,0 +1,8 @@
+[en_US]
+v = "Incorrect passphrase/password"
+
+[es_ES]
+v = "Contraseña o frase de contraseña incorrecta."
+
+[ru_RU]
+v = "Неверная парольная фраза/пароль"

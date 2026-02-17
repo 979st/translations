@@ -4,8 +4,5 @@ v = "Enter manually"
 [es_ES]
 v = "Introducir manualmente"
 
-[fr_FR]
-v = "Saisie manuelle"
-
 [ru_RU]
 v = "Ввести вручную"

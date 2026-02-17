@@ -1,11 +1,8 @@
 [en_US]
-v = "An internal backup was found. If you wipe and start over, you'll be able to recover your accounts as long as you remember the passphrase."
+v = "An internal backup was found. If you wipe and start over, you'll be able to recover your accounts as long as you remember the passphrase/password."
 
 [es_ES]
-v = "Se encontró una copia interna. Si borras y comienzas de nuevo, podrás recuperar tus cuentas siempre que recuerdes la frase de contraseña."
-
-[fr_FR]
-v = "Une sauvegarde interne a été trouvée. Si vous réinitialisez et recommencez, vous pourrez récupérer vos comptes tant que vous vous rappelez de la phrase de passe."
+v = "Se ha encontrado una copia de seguridad interna. Si borras y empiezas de nuevo, podrás recuperar tus cuentas siempre y cuando recuerdes la contraseña o frase de contraseña."
 
 [ru_RU]
-v = "Найдена внутренняя резервная копия. Если вы выполните сброс и начнёте заново, вы сможете восстановить свои аккаунты, если вспомните парольную фразу."
+v = "Была найдена внутренняя резервная копия. Если вы удалите все данные и начнете заново, вы сможете восстановить свои аккаунты, если помните пароль/парольную фразу."

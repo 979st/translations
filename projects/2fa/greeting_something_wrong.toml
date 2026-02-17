@@ -4,8 +4,5 @@ v = "Something went wrong"
 [es_ES]
 v = "Algo salió mal"
 
-[fr_FR]
-v = "Quelque chose a mal tourné"
-
 [ru_RU]
 v = "Что-то пошло не так"

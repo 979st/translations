@@ -4,8 +4,5 @@ v = "Security"
 [es_ES]
 v = "Seguridad"
 
-[fr_FR]
-v = "Sécurité"
-
 [ru_RU]
 v = "Безопасность"

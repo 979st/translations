@@ -4,8 +4,5 @@ v = "Show"
 [es_ES]
 v = "Mostrar"
 
-[fr_FR]
-v = "Afficher"
-
 [ru_RU]
 v = "Показать"

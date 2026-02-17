@@ -4,8 +4,5 @@ v = "Cancel"
 [es_ES]
 v = "Cancelar"
 
-[fr_FR]
-v = "Annuler"
-
 [ru_RU]
 v = "Отменить"

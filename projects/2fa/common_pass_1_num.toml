@@ -4,8 +4,5 @@ v = "1 number"
 [es_ES]
 v = "1 número"
 
-[fr_FR]
-v = "1 nombre"
-
 [ru_RU]
-v = "1 цифра"
+v = "1 номер"

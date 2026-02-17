@@ -4,8 +4,5 @@ v = "Select Language"
 [es_ES]
 v = "Seleccionar Idioma"
 
-[fr_FR]
-v = "Sélectionner La Langue"
-
 [ru_RU]
 v = "Выбрать Язык"

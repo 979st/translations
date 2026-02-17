@@ -4,8 +4,5 @@ v = "Biometric Unlock"
 [es_ES]
 v = "Desbloqueo Biométrico"
 
-[fr_FR]
-v = "Déverrouillage Biométrique"
-
 [ru_RU]
-v = "Биометрическая Пазблокировка"
+v = "Биометрическая Разблокировка"

@@ -4,8 +4,5 @@ v = "Welcome to 2fa!"
 [es_ES]
 v = "¡Bienvenido a 2fa!"
 
-[fr_FR]
-v = "Bienvenue sur 2fa!"
-
 [ru_RU]
 v = "Приветствуем вас в 2fa!"
