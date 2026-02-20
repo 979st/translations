@@ -1,8 +1,8 @@
 [en_US]
-v = "Ignores actions triggered by other apps"
+v = "Ignore actions invoked by external apps"
 
 [es_ES]
-v = "Ignora acciones activadas por otras aplicaciones"
+v = "Ignorar acciones invocadas por aplicaciones externas"
 
 [ru_RU]
-v = "Игнорирует действия, запускаемые другими приложениями"
+v = "Игнорировать действия, вызванные внешними приложениями"
