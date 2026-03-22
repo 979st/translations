@@ -1,0 +1,8 @@
+[en_US]
+v = "Your accounts cannot be loaded because the decryption keys are no longer usable."
+
+[es_ES]
+v = "No se pueden cargar tus cuentas porque las claves de descifrado ya no son utilizables."
+
+[ru_RU]
+v = "Ваши аккаунты не могут быть загружены, так как ключи дешифрования больше не действительны."

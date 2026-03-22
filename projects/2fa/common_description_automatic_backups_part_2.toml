@@ -1,0 +1,8 @@
+[en_US]
+v = "We highly recommend enabling this to ensure you can recover your accounts even if your decryption keys are ever invalidated."
+
+[es_ES]
+v = "Recomendamos encarecidamente habilitar esto para asegurar que puedas recuperar tus cuentas incluso si tus claves de descifrado son invalidadas."
+
+[ru_RU]
+v = "Мы настоятельно рекомендуем включить это, чтобы вы могли восстановить свои аккаунты, даже если ваши ключи дешифрования будут аннулированы."

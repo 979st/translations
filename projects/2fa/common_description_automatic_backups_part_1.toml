@@ -1,0 +1,8 @@
+[en_US]
+v = "Whenever you add, modify, or import accounts, they are automatically exported to the app's internal storage. This location is confidential and inaccessible to other apps or system backup services."
+
+[es_ES]
+v = "Cada vez que agregas, modificas o importas cuentas, se exportan automáticamente al almacenamiento interno de la aplicación. Esta ubicación es confidencial e inaccesible para otras aplicaciones o servicios de copia de seguridad del sistema."
+
+[ru_RU]
+v = "При добавлении, изменении или импорте аккаунтов они автоматически экспортируются во внутреннее хранилище приложения. Это расположение является конфиденциальным и недоступным для других приложений или системных служб резервного копирования."

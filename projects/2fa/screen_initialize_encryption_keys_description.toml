@@ -1,0 +1,8 @@
+[en_US]
+v = "Move your finger randomly across the screen. The longer you move it, the stronger the resulting encryption keys become. This visualizer simply illustrates the entropy generation process. It does not reveal sensitive data and cannot be used to derive your keys."
+
+[es_ES]
+v = "Mueve tu dedo aleatoriamente por la pantalla. Cuanto más tiempo lo muevas, más fuertes serán las claves de cifrado resultantes. Este visualizador simplemente ilustra el proceso de generación de entropía. No revela datos sensibles y no puede usarse para derivar tus claves."
+
+[ru_RU]
+v = "Перемещайте палец по экрану в случайном порядке. Чем дольше вы его перемещаете, тем надёжнее становятся создаваемые ключи шифрования. Этот визуализатор лишь иллюстрирует процесс генерации энтропии. Он не раскрывает конфиденциальные данные и не может быть использован для получения ваших ключей."

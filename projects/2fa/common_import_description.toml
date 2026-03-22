@@ -1,0 +1,8 @@
+[en_US]
+v = "You're importing accounts from \"%s\". This will overwrite matching accounts and add any missing ones."
+
+[es_ES]
+v = "Estás importando cuentas desde \"%s\". Esto sobrescribirá las cuentas coincidentes y agregará las que falten."
+
+[ru_RU]
+v = "Вы импортируете аккаунты из \"%s\". Это перезапишет совпадающие аккаунты и добавит отсутствующие."

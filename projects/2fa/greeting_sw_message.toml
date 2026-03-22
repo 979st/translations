@@ -1,8 +1,0 @@
-[en_US]
-v = "Unable to decrypt accounts due to incorrect credentials. Restart the app and try again."
-
-[es_ES]
-v = "No se pueden descifrar las cuentas debido a credenciales incorrectas. Reinicie la aplicación e inténtelo de nuevo."
-
-[ru_RU]
-v = "Невозможно расшифровать аккаунты из‑за неверных учётных данных. Перезапустите приложение и попробуйте снова."

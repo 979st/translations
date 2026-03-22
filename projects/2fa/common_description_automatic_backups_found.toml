@@ -1,0 +1,6 @@
+[en_US]
+v = "A backup was found in the app's internal storage. Enter your passphrase below to recover your accounts."
+[es_ES]
+v = "Se encontró una copia de seguridad en el almacenamiento interno de la aplicación. Ingresa tu frase de contraseña a continuación para recuperar tus cuentas."
+[ru_RU]
+v = "В внутреннем хранилище приложения найдена резервная копия. Введите кодовую фразу ниже, чтобы восстановить ваши аккаунты."

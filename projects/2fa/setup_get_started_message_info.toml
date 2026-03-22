@@ -1,8 +1,0 @@
-[en_US]
-v = "Set up your new 2FA app in three easy steps: generate your random seed, enable biometric unlock, and turn on automatic internal backups. After setup, you can import codes from other authenticator apps."
-
-[es_ES]
-v = "Configura tu nueva aplicación 2FA en tres sencillos pasos: genera tu semilla aleatoria, habilita el desbloqueo biométrico y activa las copias de seguridad internas automáticas. Después de la configuración, puedes importar códigos de otras aplicaciones."
-
-[ru_RU]
-v = "Настройте новое приложение 2FA в три простых шага: сгенерируйте случайный псевдосид, включите биометрическую разблокировку и активируйте автоматические внутренние резервные копии. После настройки вы сможете импортировать коды из других приложений."

@@ -1,0 +1,8 @@
+[en_US]
+v = "We couldn't decrypt your accounts because the credentials provided were incorrect. Please restart the app and try again."
+
+[es_ES]
+v = "No pudimos descifrar tus cuentas porque las credenciales proporcionadas son incorrectas. Por favor, reinicia la aplicación e inténtalo de nuevo."
+
+[ru_RU]
+v = "Не удалось расшифровать ваши аккаунты, так как предоставленные учётные данные неверны. Пожалуйста, перезапустите приложение и попробуйте снова."

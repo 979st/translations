@@ -1,0 +1,8 @@
+[en_US]
+v = "You're creating an Aegis compatible encrypted copy of your accounts. This format may not contain all data and should not be used to import accounts back into this app."
+
+[es_ES]
+v = "Estás creando una copia cifrada compatible con Aegis de tus cuentas. Este formato puede no contener todos los datos y no debe usarse para importar cuentas de vuelta a esta aplicación."
+
+[ru_RU]
+v = "Вы создаёте зашифрованную копию ваших аккаунтов, совместимую с Aegis. Этот формат может содержать не все данные и не должен использоваться для импорта аккаунтов обратно в это приложение."

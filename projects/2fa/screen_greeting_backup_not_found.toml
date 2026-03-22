@@ -1,0 +1,8 @@
+[en_US]
+v = "No backup was found in the app's internal storage."
+
+[es_ES]
+v = "No se encontró una copia de seguridad en el almacenamiento interno de la aplicación."
+
+[ru_RU]
+v = "В внутреннем хранилище приложения резервная копия не найдена."

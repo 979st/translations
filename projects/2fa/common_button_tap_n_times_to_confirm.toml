@@ -1,0 +1,13 @@
+[en_US]
+one = "Tap %d more time to confirm"
+other = "Tap %d more times to confirm"
+
+[es_ES]
+one = "Toca %d vez más para confirmar"
+other = "Toca %d veces más para confirmar"
+
+[ru_RU]
+one = "Нажмите ещё %d раз для подтверждения"
+few = "Нажмите ещё %d раза для подтверждения"
+many = "Нажмите ещё %d раз для подтверждения"
+other = "Нажмите ещё %d раз для подтверждения"

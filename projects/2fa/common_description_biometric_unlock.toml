@@ -1,0 +1,8 @@
+[en_US]
+v = "Using biometric unlock may invalidate your decryption keys if your lock screen or private spaces change, your device updates, or if the app hasn't been opened in a while. You can always recover your accounts by enabling automatic backups."
+
+[es_ES]
+v = "El uso del desbloqueo biométrico puede invalidar tus claves de descifrado si cambia tu pantalla de bloqueo o espacios privados, si tu dispositivo se actualiza o si la aplicación no se ha abierto en un tiempo. Siempre puedes recuperar tus cuentas habilitando las copias de seguridad automáticas."
+
+[ru_RU]
+v = "Использование биометрической разблокировки может аннулировать ваши ключи дешифрования, если изменится экран блокировки или личные пространства, обновится устройство или приложение не открывалось в течение длительного времени. Вы всегда можете восстановить свои аккаунты, включив автоматическое резервное копирование."

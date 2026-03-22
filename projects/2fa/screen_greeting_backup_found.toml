@@ -1,0 +1,8 @@
+[en_US]
+v = "A backup was found in the app's internal storage."
+
+[es_ES]
+v = "Se encontró una copia de seguridad en el almacenamiento interno de la aplicación."
+
+[ru_RU]
+v = "В внутреннем хранилище приложения найдена резервная копия."

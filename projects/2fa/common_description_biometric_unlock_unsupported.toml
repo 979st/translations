@@ -1,0 +1,8 @@
+[en_US]
+v = "Biometric unlock may not be supported on this device. Make sure you have biometrics set up in your device settings."
+
+[es_ES]
+v = "Es posible que el desbloqueo biométrico no sea compatible con este dispositivo. Asegúrate de tener la biometría configurada en los ajustes de tu dispositivo."
+
+[ru_RU]
+v = "Биометрическая разблокировка может не поддерживаться на этом устройстве. Убедитесь, что биометрия настроена в настройках вашего устройства."
